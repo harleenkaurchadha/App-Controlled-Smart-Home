@@ -12,9 +12,9 @@ const int LDRpin=A0;
 const int sliderPin=12;
 const int ACpin=2;
 const int pirPin=16;
-char auth[]="e0cd6ad738e043f099c37e9c41b779f9";
-char ssid[]="KARMAN SINGH";
-char pass[]="parvinder";
+char auth[]="YOUR AUTH TOKEN";
+char ssid[]="YOUR SSID";
+char pass[]="YOUR PASS";
 SimpleTimer timer;
 float t;
 
